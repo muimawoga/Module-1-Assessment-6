@@ -1,0 +1,15 @@
+gallery img{
+    width: 50%;
+}
+th {
+    font-weight     : 800;
+    background-color: hsl(180, 88%, 10%);
+    color           : #7c7a7a;
+}
+table{
+    font-family    : Helvetica, sans-sarif;
+    border-collapse: collapse;
+    border-width   : 9px;
+    border-style   : solid;
+    border-color   : #3d4041;
+}
